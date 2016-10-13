@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">actCicloVida</string>
+    <string name="btnOpenCic">Visualizar os Estados do Activity até o momento</string>
+</resources>
